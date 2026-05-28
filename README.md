@@ -16,4 +16,4 @@ Upload your sales CSV and get AI-powered inventory forecasts, stockout alerts, a
 3 analyses per day — no signup required
 
 ## Built with
-Python, Pandas, Matplotlib, LangChain, Groq (Mixtral), Streamlit
+Python, Pandas, Matplotlib, LangChain, Groq (Llama), Streamlit
