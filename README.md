@@ -4,7 +4,7 @@ Small businesses deserve the same forecasting tools big companies have.
 Upload your sales CSV and get AI-powered inventory forecasts, stockout alerts, and reorder recommendations.
 
 ## Live App
-[Coming soon — add your Streamlit URL here]
+[[SmartStock]](https://smartstonksss.streamlit.app/)
 
 ## What it does
 - Upload any sales CSV with date, product, quantity_sold columns
